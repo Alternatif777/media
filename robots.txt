@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://alternatif777.github.io/media/sitemap.xml
