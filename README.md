@@ -1,1 +1,1 @@
-<img width="464" height="695" alt="image" src="https://indonesia-daily.github.io/image/DA4.png" />
+<img width="464" height="695" alt="image" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgkbEy-4hUJp7JOoTH9kgGPQsyHzWYrNkEe6prygMXmfR2KuRPGhseL9oysLQxt-ZTXT40AjXQs7WSoDfHBjsrsWx4eWXiko9ix3R5SMtRFNMtND1cumapSpv-P3Tqnlw2f8edu7rl-kjU-MCCGnVDHm3LrG23OZBcn2GPPNdG0azeXLl4Vbctep3A3Xkc/s1266/Momenhero8.png" />
